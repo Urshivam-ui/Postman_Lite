@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
   plugins: [
     react(),
-    tailwindcss(), // 👈 Direct Vite CSS compilation
+    tailwindcss(),
   ],
-  base: 'https://github.com/Urshivam-ui/Postman_Lite.git',
+  base: './', 
 });
