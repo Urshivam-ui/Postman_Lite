@@ -35,7 +35,7 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 
 **Postman Lite** is a minimal, blazing-fast, browser-based API testing client designed as a lightweight alternative to heavy applications like Postman. Built for developers who need quick request and response inspection without the bloat.
 
-🔗 **Live Preview:** [Add your deployed link here]  
+🔗 **Live Preview:** (https://urshivam-ui.github.io/Postman_Lite/) 
 📦 **GitHub Repository:** [github.com/Urshivam-ui/Postman_Lite](https://github.com/Urshivam-ui/Postman_Lite)
 
 ---
